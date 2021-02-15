@@ -25,4 +25,6 @@ git branch 查看分支
 git branch dev 创建分支
 git checkout 分支名称  切换分支
 git merge 合并分支 （会有冲突）
-git branch -d 删除分
+git branch -d 删除分支
+
+第四
