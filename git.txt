@@ -1,0 +1,12 @@
+1.git使用过程
+
+进入要管理目录
+git init 初始化
+git status 检测当前文件状态
+git add 增加文件
+      red:new Modification of documents
+      green:管理的文件
+生成版本信息 git commit -m 'message'
+git log 查看版本
+
+
