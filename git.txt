@@ -18,3 +18,11 @@ git reset --hard 版本号
 回退之后版本
 git reflog
 git reset --hard 版本号
+
+
+分支结构
+git branch 查看分支
+git branch dev 创建分支
+git checkout 分支名称  切换分支
+git merge 合并分支 （会有冲突）
+git branch -d 删除分
