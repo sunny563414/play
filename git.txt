@@ -10,3 +10,11 @@ git add 增加文件
 git log 查看版本
 
 
+
+回退之前版本
+git log
+git reset --hard 版本号
+
+回退之后版本
+git reflog
+git reset --hard 版本号
